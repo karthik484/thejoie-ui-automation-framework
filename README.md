@@ -21,8 +21,9 @@ Version Control:Git & GitHub
 
 
 
- Framework Structure
+Framework Structure
 
+```text
 thejoie-ui-automation-framework/
 │
 ├── .github/
