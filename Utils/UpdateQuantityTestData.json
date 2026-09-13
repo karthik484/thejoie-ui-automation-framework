@@ -1,0 +1,16 @@
+{
+     "Customeraddress" : "kamannahalli",
+     "cardNumber" : "4748 4688 1536 2007",
+     "expiryDate" : "12 / 29",
+     "cvvnumber" : "123",
+     "Kitkatwaffels" :  "KitKat Crunch Waffle",
+     "peanutWaffels" : "Peanut Butter Waffle",
+     "chocolateWaffels"  :"Magical Milk Chocolate Waffle",
+     "PageText" : "Almost there ",
+     "customerName" : "karthik",
+     "customerPhone" : "7338939102",
+     "customerEmail" : "karthickseerha04@gmail.com",
+     "customerNote" : "Testing palywright",
+     "ConfirmationErrorText" : "Sorry, delivery is unavailable at your selected location.",
+     "PastaText" : "Pasta"
+}

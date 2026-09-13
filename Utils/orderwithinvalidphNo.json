@@ -1,0 +1,23 @@
+[
+{
+     
+        "cusName" : "Karthik",
+     "cusphNO" : "7338939",
+     "phfeilderr" : "Enter a valid 10-digit number"
+
+},
+{
+     
+        "cusName" : "Karthik",
+     "cusphNO" : "",
+     "phfeilderr" : "Enter a valid 10-digit number"
+
+},
+{
+     
+        "cusName" : "Karthik",
+     "cusphNO" : "0000000000",
+     "phfeilderr" : "Enter a valid 10-digit number"
+
+}
+]

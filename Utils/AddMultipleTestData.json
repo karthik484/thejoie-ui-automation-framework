@@ -1,0 +1,11 @@
+{
+     "Kitkatwaffels" :  "KitKat Crunch Waffle",
+     "peanutWaffels" : "Peanut Butter Waffle",
+     "chocolateWaffels" : "Magical Milk Chocolate Waffle",
+     "PageText" : "Almost there ",
+     "customerName" : "karthik",
+     "customerPhone" : "7338939102",
+     "customerEmail" : "karthickseerha04@gmail.com",
+     "customerNote" : "Testing palywright",
+     "ConfirmationErrorText" : "Sorry, delivery is unavailable at your selected location."
+}
